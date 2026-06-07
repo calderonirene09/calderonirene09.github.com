@@ -1,4 +1,3 @@
-# calderonirene09.github.com
 # Hi there 👋 I'm Irene Omit Calderon
 
 Welcome to my GitHub! I'm a second-year Bachelor of Science in Information Systems student from Davao del Norte, Philippines, passionate about system development, technology innovation, and creating solutions that make processes more efficient and user-friendly.
