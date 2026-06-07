@@ -73,6 +73,9 @@ This recognition highlighted our team's commitment to conducting relevant and im
 
 📘 **Facebook:** https://www.facebook.com/cloudrxxx
 
+📍 Location: **Davao del Norte, Philippines**
+
+
 ---
 
 > *"Technology becomes meaningful when it is used to create solutions that empower people and improve everyday experiences."*
