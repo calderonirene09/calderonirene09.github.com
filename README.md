@@ -75,8 +75,5 @@ This recognition highlighted our team's commitment to conducting relevant and im
 
 ---
 
-### ✨ Personal Motto
-
 > *"Technology becomes meaningful when it is used to create solutions that empower people and improve everyday experiences."*
 
-Thank you for visiting my GitHub profile! Feel free to explore my repositories and connect with me as I continue my journey in the field of Information Systems. 🚀
